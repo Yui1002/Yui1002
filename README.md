@@ -1,8 +1,8 @@
 # Hi I'm [Yui](http://yuiharu.com)! 👋
 
 ## 🌟 Featured Projects
-- Lesson Manager --- Lesson planning app for teachers
-- Hack Music --- Find your favorite playlist! 
+- [Lesson Manager](https://github.com/Yui1002/LessonManager) --- Lesson planning app for teachers
+- [Hack Music](https://github.com/Yui1002/Hack-Music) --- Find your favorite playlist! 
 
 ## Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
