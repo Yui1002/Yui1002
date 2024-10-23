@@ -1,12 +1,15 @@
-# Hi I'm [Yui](http://yuiharu.com)! 👋
+# Hi I'm [Yui](https://www.linkedin.com/in/yui-dayal/)! 👋
 
 ## 🌟 Featured Projects
 - [Lesson Manager](https://github.com/Yui1002/LessonManager) --- Lesson planning app for teachers
-- [Hack Music](https://github.com/Yui1002/Hack-Music) --- Find your favorite playlist! 
+- [Hack Music](https://github.com/Yui1002/Hack-Music) --- Find your favorite playlist!
+- [Timebox](https://github.com/ymura1/clinclon_v2) --- time tracker for activities
 
 ## Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
