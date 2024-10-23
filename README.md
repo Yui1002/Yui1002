@@ -3,7 +3,7 @@
 ## 🌟 Featured Projects
 - [Lesson Manager](https://github.com/Yui1002/LessonManager) --- Lesson planning app for teachers
 - [Hack Music](https://github.com/Yui1002/Hack-Music) --- Find your favorite playlist!
-- [Timebox](https://github.com/ymura1/clinclon_v2) --- time tracker for activities
+- [Timebox](https://github.com/Yui1002/timebox) --- time tracker for activities
 
 ## Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
